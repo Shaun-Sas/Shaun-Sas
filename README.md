@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python :Selenium(making a form filling bot) <br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Python,Web Development<br>💬 Ask me about anything<br>⚡ Fun fact:sorry nothing on my mind currently
+🔭 I’m currently working on Python :Selenium(making a form filling bot) <br>👯 I’m looking to collaborate on Projects <br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Python,Web Development<br>💬 Ask me about anything<br>⚡ Fun fact: Sorry nothing on my mind currently
 
 
 ## 🌐 Socials:
